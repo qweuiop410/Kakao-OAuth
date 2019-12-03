@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/TextView_kakaoName"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="김종민 님"
+        android:textSize="50sp"
+        android:textColor="#333333"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+        />
+
+    <TextView
+        android:id="@+id/TextView_welcome"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="반갑습니다"
+        android:textSize="50sp"
+        android:textColor="#333333"
+        android:layout_below="@+id/TextView_kakaoName"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/TextView_logout"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="로그아웃하고 돌아가기"
+        android:textColor="#ffffff"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:background="#888888"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/TextView_welcome"
+        android:layout_marginTop="20dp"
+        android:clickable="true"
+        />
+
+
+</RelativeLayout>

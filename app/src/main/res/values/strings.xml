@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KakaoOAuth</string>
+    <string name="kakao_app_key">...앱키...</string>
+</resources>
