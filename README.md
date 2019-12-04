@@ -66,7 +66,7 @@ public void onSuccess(UserProfile userProfile) {
   + nickname :: 김종민
   + profileImage :: http://k.kakaocdn.net/dn/b73HCN/btqzJtUMDOb/6YfzZRX22OpTdI8ML8GfR0/img_640x640.jpg
   + thumnailPath :: http://k.kakaocdn.net/dn/b73HCN/btqzJtUMDOb/6YfzZRX22OpTdI8ML8GfR0/img_110x110.jpg
-  + id :: 1202998596
+  + id :: 사용자 아이디
 
 
 
